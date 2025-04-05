@@ -5,7 +5,7 @@
       "dest": "/"
      },
      {
-        "src": "/index",
+        "src": "/index.php",
         "dest": "/"
     }
     ]
